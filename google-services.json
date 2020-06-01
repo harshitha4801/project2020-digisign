@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310752293898",
+    "firebase_url": "https://digi-sign.firebaseio.com",
+    "project_id": "digi-sign",
+    "storage_bucket": "digi-sign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310752293898:android:3cd28ba388a16b883ddbf3",
+        "android_client_info": {
+          "package_name": "com.devease.digisign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310752293898-pvgk40r0bj2i16m8vno5r5mkqu0galm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpsEoNrv-ZcOmkiKCPqS5LVPk9zrK7XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310752293898-pvgk40r0bj2i16m8vno5r5mkqu0galm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
